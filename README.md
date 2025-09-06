@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Backend
 - 📫 How to reach me: itsnatique786@gmail.com
-- 😄 My portfolio: https://natiqueasghar.vercel.app/
+- PORTFOLIO: [https://natiqueasghar.vercel.app/](https://natique.vercel.app/portfolio)
 <!-- 
 ### Connect with me:
 
@@ -26,7 +26,7 @@
 -->
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,github,git,postman,figma&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,mongodb,github,git,postman,figma&perline=4)](https://skillicons.dev)
 <!--
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
 
