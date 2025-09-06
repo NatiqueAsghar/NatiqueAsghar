@@ -5,5 +5,5 @@
 - Portfolio: [natique.vercel.app](https://natique.vercel.app/portfolio)
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nodejs,expressjs,mongodb,github,git,postman,docker,figma&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,nodejs,expressjs,mongodb,github,git,postman,docker,figma&perline=5)](https://skillicons.dev)
 
