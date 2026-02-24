@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Natique Asghar </h1>
 
 - I’m currently working on Backend
-- How to reach me: natique.dev@gmail.com
+- How to reach me: mdnatiqueasghar@gmail.com
 - Portfolio: [natique.vercel.app](https://natique.vercel.app/portfolio)
 
 ### Languages and Tools:
